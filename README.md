@@ -23,7 +23,7 @@
 ## ☁️ <a name="self_host"></a>Self Host
 
 ```bash
-$ git clone https://github.com/LEGEND-OS/Music-VC
+$ git clone https://github.com/Shankssama/Music-VC
 $ cd MusicPlayer
 $ cp sample.env .env
 < edit .env with your own values >
